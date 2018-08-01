@@ -1,0 +1,15 @@
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\bin\Debug\WpfEvent.exe.config
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\bin\Debug\WpfEvent.exe
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\bin\Debug\WpfEvent.pdb
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\obj\Debug\WpfEvent.csprojResolveAssemblyReference.cache
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\obj\Debug\MainWindow.g.cs
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\obj\Debug\App.g.cs
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\obj\Debug\WpfEvent_MarkupCompile.cache
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\obj\Debug\WpfEvent_MarkupCompile.lref
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\obj\Debug\MainWindow.baml
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\obj\Debug\WpfEvent.g.resources
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\obj\Debug\WpfEvent.Properties.Resources.resources
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\obj\Debug\WpfEvent.csproj.GenerateResource.cache
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\obj\Debug\WpfEvent.csproj.CoreCompileInputs.cache
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\obj\Debug\WpfEvent.exe
+D:\Dropbox\doc\temp\WpfEvent\WpfEvent\obj\Debug\WpfEvent.pdb
